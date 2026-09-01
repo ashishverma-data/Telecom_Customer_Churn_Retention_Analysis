@@ -130,7 +130,7 @@ SQL concepts used:
 - Aggregations
 - CASE statements
 - CTEs
-- Window functions
+- Window functions(`ROW_NUMBER()`)
 - Subqueries
 - Views
 
